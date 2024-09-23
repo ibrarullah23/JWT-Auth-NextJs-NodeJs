@@ -1,1 +1,1 @@
-# JWT-Auth-NextJs-NodeJs
+# JWT Authentication using NextJs & NodeJs
